@@ -1,0 +1,11 @@
+fav.food*names
+veg.noodles
+veg.pizza
+veg.bueger
+veg.biryani
+veg.pulav
+veg.samber
+veg.aloo curry
+veg.manchuria
+veg.tomata pappu
+veg.masala charu
